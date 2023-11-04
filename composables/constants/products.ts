@@ -4,7 +4,7 @@ export const products = [
       name: "Men's Streetwear Fashion Style Big Pocket Cotton Long Sleeve Shirt Blue / XL",
       category: "Baju",
       price: 30,
-      image: "/images/products/baju.png",
+      image: "/images/products/baju-1.png",
       isCart: false,
       description: "This shirt features a vibrant and eye-catching color and a solid pattern that will give you a happy feeling. Its long sleeve design makes it an ideal choice for men. The turn-down collar adds to comfort and stylish look. Its versatile design and great fit make it an ideal choice for casual occasions. Specifications Style: Casual Sleeve Style: Regular Sleeve Length(cm): Full Shirts Type: Casual Shirts Pattern Type: Solid Origin: CN(Origin) Model Number: C6112 Material: Cotton Item T",
     },
