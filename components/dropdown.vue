@@ -4,6 +4,19 @@ const isShow = ref(false);
 defineEmits(["selectedCategory"]);
 </script>
 
+<!-- <script lang="ts" setup>
+import { useCategoryStore } from "~/stores/category";
+
+const categoryStore = useCategoryStore();
+const allCategory = ref([]);
+
+categoryStore.getAllCategory().then(() => {
+    allCategory.value = categoryStore.categories;
+});
+const isShow = ref(false);
+defineEmits(["selectedCategory"]);
+const selectedCategory = ref("");
+</script> -->
 <template>
     <div class="relative select-none">
         <div class="border border-primary flex items-center justify-center px-3 py-2
