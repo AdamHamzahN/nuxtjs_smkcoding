@@ -13,6 +13,6 @@
                     <NuxtLink to="/cart" class="text-base">Cart</NuxtLink>
                 </nav>
             </div>
-        </div>
+        </div>              
     </header>
 </template>
